@@ -1,0 +1,85 @@
+/* CSS Document */
+
+body {
+	background-image: url(Pictures/3.jpg);
+}
+#menu {
+	margin-right: auto;
+	margin-left: auto;
+}
+#ust {
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+#icerik {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 30px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	line-height: 140%;
+}
+#imza {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	line-height: 140%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	color: #FFF;
+}
+#menu div table tr td div a {
+	color: #999;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+	padding-top: 0px;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	
+}
+#menu div table tr td div a:Hover {
+	color: #0F0;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+	padding-top: 0px;
+	background: #F96;
+	font-weight: bold;
+}
+#icerik2 {
+	margin-right: auto;
+	margin-left: auto;
+}
+#imza div {
+	font-size: 20px;
+	color: #FFF;
+}
+a:link {
+	color: #C00;
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: underline;
+	color: #FC6;
+}
+a:hover {
+	text-decoration: none;
+	color: #F93;
+}
+a:active {
+	text-decoration: underline;
+	color: #C00;
+}
+.menuactive{
+background-color:#1E0875;
+}
+
+
+td{
+background-color:#CCC;
+}
